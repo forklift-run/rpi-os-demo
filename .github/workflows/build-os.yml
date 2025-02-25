@@ -98,6 +98,15 @@ jobs:
 
       # RUN OS SETUP SCRIPTS
 
+      # Note: the following step isn't strictly necessary, but it's nice to separate the GitHub
+      # Actions log outputs for setting up pinspawn-action for the first time from the logs for
+      # the OS installation script
+      - name: Install pinspawn-action dependencies
+        uses: ethanjli/pinspawn-action@v0.1.4
+        with:
+          image: ${{ steps.expand-image.outputs.destination }}
+          run: echo "Done!"
+
       - name: Run OS setup scripts in an unbooted container
         uses: ethanjli/pinspawn-action@v0.1.4
         with:
