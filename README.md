@@ -56,7 +56,7 @@ donated to [github.com/PlanktoScope/PlanktoScope](https://github.com/PlanktoScop
 PlanktoScope repository's source code is licensed under the
 [GPL 3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html); because Ethan has retained
 copyright ownership over their own individual contributions to the PlanktoScope repository (instead
-of assigning copyright to the PlanktoScope project via any legal contract or any
+of assigning copyright ownership to the PlanktoScope project via any legal contract or any
 [work-for-hire arrangement](https://worksmadeforhire.com/) with any employer), Ethan has exercised
 their legal right to make their own contributions available under additional licenses by gathering
 some of their own contributions, copying them into the rpi-os-demo repository, and then making that
