@@ -10,7 +10,7 @@ To make a new repository based on this repository, we recommend that you press t
 using GitHub's "Fork" button from this repository.
 
 Afterwards, you should update this `README.md` file's Usage and Licensing information accordingly,
-and you should update the LICENSE files in this repo accordlyg.
+and you should update the LICENSE files in this repo accordingly.
 
 ### Development
 
@@ -61,15 +61,15 @@ of assigning copyright to the PlanktoScope project via any legal contract or any
 their legal right to make their own contributions available under additional licenses by gathering
 some of their own contributions, copying them into the rpi-os-demo repository, and then making that
 source code available under the Apache 2.0 License and under the Blue Oak Model License
-(SPDX-License-Identifier: `Apache-2.0 OR BlueOak-1.0.0`).
+(SPDX License Identifier: `Apache-2.0 OR BlueOak-1.0.0`).
 
 ### Contributions
 
 Contributions to this repository will only be accepted if the contributor has a legal right to
 make the contributed source code available in this repository under this repository's licenses
-(which are listed above). In particular, this means that we cannot accept a contribution of
-GPL-licensed source code from
-[github.com/PlanktoScope/PlanktoScope](https://github.com/PlanktoScope/PlanktoScope) if you are not
-the author of that source code in the PlanktoScope repository or if you otherwise lack the legal
+(which are listed above). In particular, this means that we cannot accept any contribution you make
+if it includes GPL-licensed source code from
+[github.com/PlanktoScope/PlanktoScope](https://github.com/PlanktoScope/PlanktoScope) and you are not
+the author of that source code in the PlanktoScope repository, or if you otherwise lack the legal
 right (e.g. via copyright ownership) to distribute that source code under this repository's
 licenses.
