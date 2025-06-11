@@ -18,8 +18,6 @@ or if you have questions about the licenses, we'd love to hear from you - please
 discussion thread in the "Discussions" tab of this repository on Github or email us at
 <lietk12@gmail.com> .
 
-### Software
-
 Except where otherwise indicated, source code provided here is covered by the following information:
 
 **Copyright Ethan Li and Forklift project contributors**
@@ -36,3 +34,16 @@ We are making the software available under the Apache license because it's
 but we like the Blue Oak Model License more because it's easier to read and understand.
 Please read and understand the licenses for the specific language governing permissions and
 limitations.
+
+### Origins
+
+The [github.com/forklift/rpi-os-demo](https://github.com/forklift/rpi-os-demo) repository was
+created by Ethan Li as a copy of a subset of original contributions they had
+donated to [github.com/PlanktoScope/PlanktoScope](https://github.com/PlanktoScope/PlanktoScope). The
+PlanktoScope repository's source code is licensed under
+[GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). Because Ethan has retained copyright
+ownership over their own individual contributions to that project (instead of assigning copyright to
+the PlanktoScope project via a Contributor License Agreement or any other legal contract), Ethan has
+exercised their legal right to make their own contributions available under additional licenses by
+gathering their own contributions into the rpi-os-demo repository under the Apache 2.0 License and
+the Blue Oak Model License (SPDX-License-Identifier: `Apache-2.0 OR BlueOak-1.0.0`).
