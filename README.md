@@ -67,8 +67,8 @@ source code available under the Apache 2.0 License and under the Blue Oak Model 
 
 Contributions to this repository will only be accepted if the contributor has a legal right to
 make the contributed source code available in this repository under this repository's licenses
-(which are listed above). In particular, this means that we cannot accept any contribution you make
-if it includes GPL-licensed source code from
+(which are listed above). In particular, this means that we might not be able to accept a
+contribution from you if it includes GPL-licensed source code from
 [github.com/PlanktoScope/PlanktoScope](https://github.com/PlanktoScope/PlanktoScope) and you are not
 the author of that source code in the PlanktoScope repository, or if you otherwise lack the legal
 right (e.g. via copyright ownership) to distribute that source code under this repository's
