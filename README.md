@@ -50,8 +50,8 @@ This repository was initialized as a copy of
 repository is under copyright of Ethan Li and Forklift project contributors, and it can be used
 either under the Apache 2.0 License or under the Blue Oak Model License 1.0.0.
 
-The [github.com/forklift/rpi-os-demo](https://github.com/forklift/rpi-os-demo) repository was
-created by Ethan Li as a copy of a subset of original contributions which they had
+The [github.com/forklift-run/rpi-os-demo](https://github.com/forklift-run/rpi-os-demo) repository
+was created by Ethan Li as a copy of a subset of original contributions which they had
 donated to [github.com/PlanktoScope/PlanktoScope](https://github.com/PlanktoScope/PlanktoScope). The
 PlanktoScope repository's source code is licensed under the
 [GPL 3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html); because Ethan has retained
