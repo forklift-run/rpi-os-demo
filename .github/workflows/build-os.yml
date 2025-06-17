@@ -101,13 +101,13 @@ jobs:
       # Actions log outputs for setting up pinspawn-action for the first time from the logs for
       # the OS installation script
       - name: Install pinspawn-action dependencies
-        uses: ethanjli/pinspawn-action@v0.1.4
+        uses: ethanjli/pinspawn-action@v0.1.5
         with:
           image: ${{ steps.expand-image.outputs.destination }}
           run: echo "Done!"
 
       - name: Run OS setup scripts in an unbooted container
-        uses: ethanjli/pinspawn-action@v0.1.4
+        uses: ethanjli/pinspawn-action@v0.1.5
         with:
           image: ${{ steps.expand-image.outputs.destination }}
           user: ${{ env.SETUP_USER }}
